@@ -1,4 +1,6 @@
 # PiFM-Hijacker
+<img width="1024" height="1024" alt="PiFM" src="https://github.com/user-attachments/assets/0597851b-ea8e-4379-9a55-1724f386ec7a" />
+
 Transmitting radio signals from a Raspberry Pi can be achieved by using the GPIO pins to generate a frequency that can be picked up by a nearby radio. One of the most common methods is to use the pifm tool, which leverages the Pi's hardware to create a simple FM transmitter.
 
 Requirements
